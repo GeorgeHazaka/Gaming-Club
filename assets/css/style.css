@@ -377,4 +377,152 @@ footer {
         margin-right: 100px;
         margin-left: 100px;
     }
+
+    /* Games */
+
+    #games-heading {
+        font-size: 260%;
+    }
+
+    #photos {
+        column-count: 2;
+        column-gap: 4px;
+    }
+
+    #photos img {
+        height: 450px;
+        border: 2px solid rgb(76, 85, 80);
+    }
+
+    /* Sign-Up */
+
+    #signup-left-div h2 {
+        font-size: 165%;
+        letter-spacing: 2.5px;
+        margin-bottom: 20px;
+    }
+
+    #signup-left-div label {
+        font-size: 135%;
+    }
+
+    #signup-left-div .text-input {
+        height: 33px;
+        font-size: 125%;
+        margin-bottom: 20px;
+    }
+
+    #signup-left-div #submit {
+        padding: 8px 25px;
+        margin: 15px auto 0;
+        font-size: 125%;
+    }
+
+    #signup-right-div img {
+        height: 430px;
+        margin-right: 4%;
+    }
+}
+
+/* For medium screens size from 950px wide and down */
+
+@media screen and (max-width: 950px) {
+
+    /* Home */ 
+
+    #logo {
+        font-size: 175%;
+        margin-bottom: 0;
+        line-height: 30px;
+        letter-spacing: 5px;
+    }
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+    }
+
+
+    #menu li {
+        font-size: 118%;
+        margin-right: 15px;
+        margin-top: 20px;
+        line-height: 30px;
+        margin-bottom: 80px;
+    }
+
+    #feel-free-left-div, #save-money-right-div {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    #feel-free-left-div h2, #save-money-right-div h2 {
+        font-size: 180%;
+        letter-spacing: 4px;
+    }
+    #feel-free-left-div p, #save-money-right-div p {
+        font-size: 142.5%;
+        line-height: 30px;
+    }
+
+    #feel-free-right-div img {
+        width: 80%;
+        border-radius: 50px;
+        margin-right: 10%;
+        border: 2px solid rgb(76, 85, 80);
+        height: 250px;
+    }
+
+    #save-money-left-div img {
+        width: 80%;
+        border-radius: 50px;
+        margin-left: 10%;
+        margin-bottom: 30px;
+        border: 2px solid rgb(76, 85, 80);
+        height: 250px;
+    }
+
+    #play-directly-left-div img {
+        width: 80%;
+        margin-left: 10%;
+        border-radius: 0 0 210px 210px;
+        border: 2px solid rgb(76, 85, 80);
+    }
+
+    #play-directly-right-div img {
+        width: 80%;
+        margin-right: 10%;
+        margin-top: 300px;
+        border-radius: 210px 210px 0 0;
+        border: 2px solid rgb(76, 85, 80);
+    }
+
+    #play-directly-center-div {
+        position: absolute;
+        width: 100%;
+        margin-top: 330px
+    }
+
+    #play-directly-center-div h2 {
+        font-size: 180%;
+        letter-spacing: 4px;
+    }
+    #play-directly-center-div p {
+        font-size: 142.5%;
+        line-height: 30px;
+    }
+
+    #first-hr {
+        height: 150px;
+    }
+
+    #second-hr {
+        height: 120px;
+    }
+
+    footer #social-networks i {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
 }
