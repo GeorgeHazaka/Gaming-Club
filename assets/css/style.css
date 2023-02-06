@@ -525,4 +525,64 @@ footer {
         margin-right: 20px;
         margin-left: 20px;
     }
+
+    /* Games */
+
+    #games-heading {
+        font-size: 180%;
+        letter-spacing: 4px;
+    }
+
+    #photos {
+        column-count: 1;
+    }
+
+    #photos img {
+        height: 450px;
+        border: 2px solid rgb(76, 85, 80);
+    }
+
+    /* Sign-Up */
+
+    #signup-left-div form {
+        width: 40%;
+        margin-left: 5%;
+    }
+
+    #signup-left-div h2 {
+        font-size: 132%;
+        letter-spacing: 1.25px;
+        margin-bottom: 15px;
+    }
+
+    #signup-left-div label {
+        font-size: 118%;
+    }
+
+    #signup-left-div .text-input {
+        height: 25px;
+        font-size: 115%;
+        margin-bottom: 16px;
+    }
+
+    #signup-left-div #submit {
+        padding: 6px 17px;
+        margin: 10px auto 0;
+        font-size: 115%;
+    }
+
+    #signup-left-div [type=radio] {
+        width: 15px;
+        height: 15px;
+        margin-bottom: 15px;
+    }
+
+    #signup-left-div [for=monthly], #signup-left-div [for=yearly] {
+        font-size: 105%;
+    }
+
+    #signup-right-div img {
+        height: 365px;
+        margin-right: 4%;
+    }
 }
