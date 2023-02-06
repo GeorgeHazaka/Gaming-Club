@@ -172,3 +172,41 @@ span {
 #cloud {
     color: rgb(0, 255, 170);
 }
+
+/* hr */
+
+hr {
+    width: 100%;
+    border: 0px;
+}
+
+#first-hr {
+    height: 200px;
+}
+
+#second-hr {
+    height: 240px;
+}
+
+/* Footer */
+
+footer {
+    clear: both;
+    height: 300px;
+    line-height: 300px;
+}
+
+#social-networks {
+    text-align: center;
+}
+
+#social-networks li {
+    display: inline;
+}
+
+#social-networks i {
+    font-size: 200%;
+    color: rgb(0, 255, 170);
+    margin-right: 200px;
+    margin-left: 200px;
+}
