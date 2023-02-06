@@ -129,3 +129,46 @@ span {
     width: 50%;
     border-radius: 0 110px 110px 110px;
 }
+
+/* Section's play-directly part */
+
+#play-directly-container-div {
+    clear: both;
+}
+
+#play-directly-left-div img {
+    float: left;
+    width: 33%;
+    height: 500px;
+    border-radius: 0 310px 300px 0px;
+}
+
+#play-directly-right-div img {
+    float: right;
+    width: 33%;
+    height: 500px;
+    border-radius: 310px 0 0 310px;
+}
+
+#play-directly-center-div {
+    margin: 0 auto;
+    width: 33%;
+    text-align: center;
+    height: 500px;
+}
+
+#play-directly-center-div h2 {
+    color: rgb(0, 255, 170);
+    font-size: 420%;
+    margin-bottom: 60px;
+    letter-spacing: 6px;
+}
+
+#play-directly-center-div p {
+    font-size: 270%;
+    padding: 0 50px;
+}
+
+#cloud {
+    color: rgb(0, 255, 170);
+}
