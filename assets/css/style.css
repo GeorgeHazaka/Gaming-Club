@@ -303,6 +303,10 @@ footer {
     cursor: pointer;
 }
 
+#signup-left-div [for=monthly], #signup-left-div [for=yearly] {
+    cursor: pointer;
+}
+
 #save {
     font-size: 80%;
 }
