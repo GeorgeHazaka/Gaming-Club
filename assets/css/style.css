@@ -586,3 +586,35 @@ footer {
         margin-right: 4%;
     }
 }
+
+/* For small screens size from 480px wide and down */
+
+@media screen and (max-width: 480px) {
+
+    /* Home */
+
+    #feel-free-left-div h2, #save-money-right-div h2, #play-directly-center-div h2 {
+        font-size: 130%;
+        letter-spacing: 2px;
+    }
+
+    #feel-free-left-div p, #save-money-right-div p, #play-directly-center-div p {
+        font-size: 120%;
+        line-height: 25px;
+    }
+
+    #play-directly-right-div img {
+        margin-top: 350px;
+    }
+
+    #play-directly-center-div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    footer #social-networks i {
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+}
