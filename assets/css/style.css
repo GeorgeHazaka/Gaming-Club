@@ -333,3 +333,48 @@ footer {
     margin-right: 5%;
     border: 1.5px solid rgb(3, 224, 150);
 }
+
+/* Media queries */
+
+/* For larger to medium screens size from 1366px wide and down */ 
+
+@media screen and (max-width: 1366px) {
+
+    /* Home */
+
+    #logo {
+        font-size: 250%;
+    }
+
+    #menu li {
+        font-size: 135%;
+    }
+
+    #feel-free-left-div, #save-money-right-div, #play-directly-center-div {
+        margin-top: -50px;
+    }
+
+    #feel-free-left-div h2, #save-money-right-div h2, #play-directly-center-div h2 {
+        font-size: 260%;
+        margin-bottom: 20px;
+    }
+
+    #feel-free-left-div p, #save-money-right-div p, #play-directly-center-div p {
+        font-size: 185%;
+    }
+
+    #play-directly-left-div img, #play-directly-right-div img {
+        height: 300px;
+        width: 25%;
+    }
+
+    #play-directly-center-div {
+        height: 300px;
+        width: 50%;
+    }
+
+    footer #social-networks i {
+        margin-right: 100px;
+        margin-left: 100px;
+    }
+}
