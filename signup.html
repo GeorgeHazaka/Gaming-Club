@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Gaming Club for all gamers around the world">
+    <meta name="keywords" content="gaming club, gamers, games">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Gaming Club</title>
+</head>
+<body id="signup-body">
+    <header>
+        <a href="index.html">
+            <h1 id="logo">Gaming Club</h1>
+        </a>
+        <nav>
+            <ul id="menu">
+                <li>
+                    <a href="signup.html" class="active">Sign Up</a>
+                </li>
+                <li>
+                    <a href="games.html">Games</a>
+                </li>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <div id="signup-left-div">
+            <form action="https://formdump.codeinstitute.net/" method="POST">
+                <h2>Join our network <i class="fa-solid fa-gamepad"></i></h2>
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="first_name" required class="text-input" >
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="last_name" required class="text-input" >
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email_address" required class="text-input" >
+                <label for="fname">Password</label>
+                <input type="password" id="password" name="password" required class="text-input" >
+
+                <input type="radio" id="monthly" name="subscription_method" required value="monthly" >
+                <label for="monthly">29 $ per Month</label>
+                <br>
+                <input type="radio" id="yearly" name="subscription_method" required value="yearly" >
+                <label for="yearly">269 $ per Year <span id="save">(save 79 $)</span></label>
+
+                <input type="submit" id="submit" value="Let's Play!" >
+            </form>
+        </div>
+        <div id="signup-right-div">
+            <img src="assets/images/green-csgo.jpg" alt="two police officers holding guns" >
+        </div>
+    </section>
+    <footer>
+        <ul id="social-networks">
+            <li>
+                <a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)" ><i class="fa-brands fa-facebook"></i></a>
+            </li>
+            <li>
+                <a href="https://www.twitter.com" target="_blank" rel="noopener" aria-label="Visit our Twitter page (opens in a new tab)"><i class="fa-brands fa-square-twitter"></i></a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com" target="_blank" rel="noopener" aria-label="Visit our Youtube page (opens in a new tab)"><i class="fa-brands fa-youtube"></i></a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in a new tab)"><i class="fa-brands fa-instagram"></i></a>
+            </li>
+        </ul>
+    </footer>
+</body>
+</html>
