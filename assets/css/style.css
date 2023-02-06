@@ -55,3 +55,40 @@ body {
 .active {
     border-bottom: 3px solid #ff6666;
 }
+
+/* Section's feel-free part*/
+
+#feel-free-left-div {
+    clear: both;
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+
+#feel-free-left-div h2 {
+    color: rgb(0, 255, 170);
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-size: 420%;
+    letter-spacing: 6px;
+}
+
+span {
+    color: #ff6666;
+}
+
+#feel-free-left-div p {
+    font-size: 270%;
+    width: 77%;
+    margin: 0 auto;
+}
+
+#variety {
+    color: rgb(0, 255, 170);
+}
+
+#feel-free-right-div img {
+    width: 50%;
+    float: right;
+    border-radius: 110px 0 110px 110px;
+}
