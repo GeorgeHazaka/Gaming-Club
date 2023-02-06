@@ -28,3 +28,30 @@ body {
     text-decoration: none;
     letter-spacing: 8px;
 }
+
+#menu li {
+    float: right;
+    margin-right: 25px;
+    margin-top: 20px;
+    list-style-type: none;
+    font-size: 170%;
+}
+
+#menu a {
+    color: rgb(0, 255, 170);
+    text-decoration: none;
+}
+
+#menu a:hover {
+    border-bottom: 3px solid #ff6666;
+    color: aqua;
+}
+
+#logo, #menu li {
+    line-height: 80px;
+    margin-bottom: 150px;
+}
+
+.active {
+    border-bottom: 3px solid #ff6666;
+}
