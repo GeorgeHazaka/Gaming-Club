@@ -254,3 +254,82 @@ footer {
         opacity: 1;
     }
 }
+
+/* Sign-Up */
+
+#signup-body {
+    background: url(../images/green&orange.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#signup-left-div form {
+    clear: both;
+    float: left;
+    width: 30%;
+    margin-left: 10%;
+}
+
+#signup-left-div h2 {
+    font-size: 300%;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#signup-left-div label {
+    font-size: 170%;
+}
+
+#signup-left-div .text-input {
+    width: 100%;
+    color: rgb(181, 223, 209);
+    background-color: black;
+    height: 40px;
+    font-size: 150%;
+    margin-bottom: 30px;
+    border: 1px solid rgb(0, 255, 170);
+}
+
+#signup-left-div .text-input:hover {
+    border: 2px solid rgb(0, 255, 170);
+}
+
+#signup-left-div [type=radio] {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+#save {
+    font-size: 80%;
+}
+
+#signup-left-div #submit {
+    display: block;
+    cursor: pointer;
+    padding: 15px 50px;
+    margin: 20px auto 0;
+    background-color: rgb(3, 173, 117);
+    color: black;
+    border: 0;
+    border-radius: 6px;
+    font-size: 150%;
+    font-weight: 500;
+}
+
+#signup-left-div #submit:hover {
+    background-color: black;
+    color: rgb(3, 224, 150);
+}
+
+#signup-right-div img {
+    float: right;
+    width: 35%;
+    border-radius: 10px;
+    height: 580px;
+    margin-right: 5%;
+    border: 1.5px solid rgb(3, 224, 150);
+}
