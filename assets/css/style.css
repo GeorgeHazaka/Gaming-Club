@@ -44,7 +44,6 @@ body {
 
 #menu a:hover {
     border-bottom: 3px solid #ff6666;
-    color: aqua;
 }
 
 #logo, #menu li {
@@ -96,7 +95,6 @@ span {
 /* Section's save-money part */
 
 #save-money-container-div {
-    color: #ff6666;
     clear: both;
 }
 
