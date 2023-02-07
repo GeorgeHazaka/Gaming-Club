@@ -233,6 +233,8 @@ footer {
 }
 
 #photos > img {
+    height: 450px;
+    border: 2px solid rgb(76, 85, 80);
     width: 100%;
     animation-name: images-shape-and-opacity;
     animation-duration: 1.5s;
