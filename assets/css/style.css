@@ -208,7 +208,7 @@ footer {
 /* Games */
 
 #games-body {
-    background: url(../images/smoke-greenjpg.jpg) no-repeat center center;
+    background: url(../images/blue-left-rose-right.jpg) no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -254,7 +254,7 @@ footer {
 /* Sign-Up */
 
 #signup-body {
-    background: url(../images/green&orange.jpg) no-repeat center center;
+    background: url(../images/blue&rose.jpg) no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -639,12 +639,6 @@ footer {
     }
 
     /* Sign-Up */
-
-    #signup-body {
-        background: url(../images/green&orange-horizontal.jpg) no-repeat center center;
-        background-size: cover;
-        background-attachment: fixed;
-    }
 
     #signup-left-div form {
         width: 80%;
