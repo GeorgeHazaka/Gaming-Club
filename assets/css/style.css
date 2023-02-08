@@ -13,7 +13,7 @@ body {
     background: url(../images/green-bee-like-Darker.jpg) no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
-    color: #ff6666;
+    color: #ff0099;
 }
 
 /* header */
@@ -34,12 +34,12 @@ body {
 }
 
 #menu a {
-    color: rgb(0, 255, 170);
+    color: #0080ff;
     text-decoration: none;
 }
 
 #menu a:hover {
-    border-bottom: 3px solid #ff6666;
+    border-bottom: 3px solid #ff0099;
 }
 
 #main-logo, #menu li {
@@ -48,7 +48,7 @@ body {
 }
 
 .active {
-    border-bottom: 3px solid #ff6666;
+    border-bottom: 3px solid #ff0099;
 }
 
 /* Section's feel-free part*/
@@ -61,7 +61,7 @@ body {
 }
 
 #feel-free-left-div h2 {
-    color: rgb(0, 255, 170);
+    color: #0080ff;
     margin-top: 60px;
     margin-bottom: 60px;
     font-size: 420%;
@@ -69,7 +69,7 @@ body {
 }
 
 span {
-    color: #ff6666;
+    color: #ff0099;
 }
 
 #feel-free-left-div p {
@@ -79,7 +79,7 @@ span {
 }
 
 #variety {
-    color: rgb(0, 255, 170);
+    color: #0080ff;
 }
 
 #feel-free-right-div img {
@@ -101,7 +101,7 @@ span {
 }
 
 #save-money-right-div h2 {
-    color: rgb(0, 255, 170);
+    color: #0080ff;
     margin-top: 60px;
     margin-bottom: 60px;
     font-size: 420%;
@@ -115,7 +115,7 @@ span {
 }
 
 #multiple {
-    color: rgb(0, 255, 170);
+    color: #0080ff;
 }
 
 #save-money-left-div img {
@@ -152,7 +152,7 @@ span {
 }
 
 #play-directly-center-div h2 {
-    color: rgb(0, 255, 170);
+    color: #0080ff;
     font-size: 420%;
     margin-bottom: 60px;
     letter-spacing: 6px;
@@ -164,7 +164,7 @@ span {
 }
 
 #cloud {
-    color: rgb(0, 255, 170);
+    color: #0080ff;
 }
 
 /* hr */
@@ -200,7 +200,7 @@ footer {
 
 #social-networks i {
     font-size: 200%;
-    color: rgb(0, 255, 170);
+    color: #0080ff;
     margin-right: 200px;
     margin-left: 200px;
 }
@@ -216,7 +216,7 @@ footer {
 #games-heading {
     clear: both;
     text-align: center;
-    color: rgb(0, 255, 170);
+    color: #0080ff;
     margin-bottom: 100px;
     font-size: 420%;
     letter-spacing: 6px;
@@ -284,11 +284,12 @@ footer {
     height: 40px;
     font-size: 150%;
     margin-bottom: 30px;
-    border: 1px solid rgb(0, 255, 170);
+    border: 1px solid #0080ff;
+    border-radius: 3px;
 }
 
 #signup-left-div .text-input:hover {
-    border: 2px solid rgb(0, 255, 170);
+    border: 2px solid #0080ff;
 }
 
 #signup-left-div [type=radio] {
@@ -312,7 +313,7 @@ footer {
     cursor: pointer;
     padding: 15px 50px;
     margin: 20px auto 0;
-    background-color: rgb(3, 173, 117);
+    background-color: #0080ff;
     color: black;
     border: 0;
     border-radius: 6px;
@@ -322,7 +323,7 @@ footer {
 
 #signup-left-div #submit:hover {
     background-color: black;
-    color: rgb(3, 224, 150);
+    color: #0080ff;
 }
 
 #signup-right-div img {
@@ -331,7 +332,8 @@ footer {
     border-radius: 10px;
     height: 580px;
     margin-right: 5%;
-    border: 1.5px solid rgb(3, 224, 150);
+    border: 1.5px solid black;
+    opacity: 0.9;
 }
 
 /* Media queries */
