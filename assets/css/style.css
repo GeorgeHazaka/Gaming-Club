@@ -18,15 +18,11 @@ body {
 
 /* header */
 
-#logo {
-    color: rgb(0, 255, 170);
+#main-logo {
     float: left;
-    font-size: 400%;
-    margin-top: 30px;
-    margin-left: 30px;
-    text-transform: uppercase;
-    text-decoration: none;
-    letter-spacing: 8px;
+    margin-top: 10px;
+    margin-left: 15px;
+    scale: 0.8;
 }
 
 #menu li {
@@ -46,7 +42,7 @@ body {
     border-bottom: 3px solid #ff6666;
 }
 
-#logo, #menu li {
+#main-logo, #menu li {
     line-height: 80px;
     margin-bottom: 150px;
 }
@@ -346,8 +342,9 @@ footer {
 
     /* Home */
 
-    #logo {
-        font-size: 250%;
+    #main-logo {
+        scale: 0.7;
+        margin-left: -30px;
     }
 
     #menu li {
@@ -434,11 +431,10 @@ footer {
 
     /* Home */ 
 
-    #logo {
-        font-size: 175%;
-        margin-bottom: 0;
-        line-height: 30px;
-        letter-spacing: 5px;
+    #main-logo {
+        line-height: 0;
+        scale: 0.55;
+        margin-left: -85px;
     }
 
     #menu {
@@ -596,6 +592,15 @@ footer {
 @media screen and (max-width: 480px) {
 
     /* Home */
+
+    #main-logo {
+        scale: 0.35;
+        margin-left: -133px
+    }
+
+    #menu {
+        margin-top: -180px;
+    }
 
     #feel-free-left-div h2, #save-money-right-div h2, #play-directly-center-div h2 {
         font-size: 130%;
