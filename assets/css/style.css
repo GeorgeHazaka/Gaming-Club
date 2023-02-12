@@ -355,7 +355,13 @@ footer {
     }
 
     #feel-free-left-div, #feel-free-right-div img, #save-money-left-div img, #save-money-right-div {
-        height: 250px;
+        height: 350px;
+    }
+
+    #feel-free-left-div, #save-money-right-div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
     }
 
     #feel-free-left-div, #save-money-right-div, #play-directly-center-div {
@@ -368,7 +374,7 @@ footer {
     }
 
     #feel-free-left-div p, #save-money-right-div p, #play-directly-center-div p {
-        font-size: 185%;
+        font-size: 190%;
     }
 
     #play-directly-left-div img, #play-directly-right-div img {
