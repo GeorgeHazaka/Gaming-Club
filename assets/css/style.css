@@ -61,9 +61,14 @@ body {
     float: left;
 }
 
+.center-vertically {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 #feel-free-left-div h2 {
     color: #0080ff;
-    margin-top: 60px;
     margin-bottom: 60px;
     font-size: 420%;
     letter-spacing: 6px;
@@ -101,7 +106,6 @@ body {
 
 #save-money-right-div h2 {
     color: #0080ff;
-    margin-top: 60px;
     margin-bottom: 60px;
     font-size: 420%;
     letter-spacing: 6px;
@@ -362,10 +366,6 @@ footer {
         display: flex;
         flex-direction: column;
         justify-content: center;
-    }
-
-    #feel-free-left-div, #save-money-right-div, #play-directly-center-div {
-        margin-top: -50px;
     }
 
     #feel-free-left-div h2, #save-money-right-div h2, #play-directly-center-div h2 {
