@@ -1,108 +1,229 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Gaming Club
 
-Welcome GeorgeHazaka,
+This application is designed to facilitate the process of playing without losing too much money on expensive games. Anyone can play online, alone or multiple players anytime and anywhere.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Users of this website wil be able to find all the information they need to know about Gaming Club: About the club, the games we have, sign up form and contact information. This site is targeted towards gamers who are willing to play many games but can't afford it, as this application can provide you several well-known games by only paying the monthly subscription.
+<br>
+<br>
+<img src="assets/images/Responsive-gaming-club.png" alt="" >
+<br>
+<br>
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+## Features
+<hr>
+<h3>Existing Features</h3>
+<ul>
+    <li><h4>The Header</h4>
+        <ul>
+            <li>
+                Featured at the top of the page, the header shows the club name in the left corner: GAMING CLUB that links to the Home page.
+            </li>
+            <li>
+                The navigation links are to the right: Home, Games and Sign Up which link to different pages of the website.
+            </li>
+            <li>
+                The header clearly tells the user the name of the club and website and the navigation links make the different pages of information easy to find.
+            </li>
+        </ul>
+        <br>
+        <img src="assets/images/Navigation-gaming-club.png" alt="" >
+        <br>
+        <br>
+    </li>
+    <li><h4>The Section</h4>
+        <ul>
+            <li>
+                Feel Free part makes the user feel free to play whatever game they want alone or with freinds and family.
+                <br>
+                <br>
+                <img src="assets/images/Feel-free-gaming-club.png" alt="" >
+                <br>
+                <br>
+            </li>
+            <li>
+                Save Money part is to encourage the user to join the Gaming club instead of paying lots of money for a single game.
+                <br>
+                <br>
+                <img src="assets/images/Save-money-gaming-club.png" alt="" >
+                <br>
+                <br>
+            </li>
+            <li>
+                Play Directly part is about the Cloud feature, which allows the user to play directly so they don't have to wait until the game is fully downloaded. Also it shows that this feature doesn't take any space in memory.
+                <br>
+                <br>
+                <img src="assets/images/Play-directly-gaming-club.png" alt="" >
+                <br>
+                <br>
+            </li>
+        </ul>
+    </li>
+    <li><h4>The Footer</h4>
+        <ul>
+            <li>
+                The Footer section includes links to various social networks for Gaming Club.
+            </li>
+            <li>
+                It makes the user keep connected with us through social media.
+            </li>
+        </ul>
+        <br>
+        <img src="assets/images/Footer-gaming-club.png" alt="" >
+        <br>
+        <br>
+    </li>
+    <li><h4>Games</h4>
+        <ul>
+            <li>
+                The games page shows the user the games we have in Gaming Club.
+            </li>
+            <li>
+                This section provides the user to easily navigate through games.
+            </li>
+        </ul>
+        <br>
+        <img src="assets/images/Games-gaming-club.png" alt="" >
+        <br>
+        <br>
+    </li>
+    <li><h4>The Sign Up Page</h4>
+        <ul>
+            <li>
+                This page allwos the user to create an account and start gaming right after.
+            </li>
+            <li>
+                The user has to submit their first name, last name, email address, password and choose the subscription period.
+            </li>
+            <li>
+                The user can specify wether they want to subscripe for a month or a year. Choosing the year option saves them 79$.
+            </li>
+        </ul>
+        <br>
+        <img src="assets/images/Sign-up-gaming-club.png" alt="" >
+        <br>
+        <br>
+    </li>
+</ul>
+<h3>Features Left to Implement</h3>
+<ul>
+    <li>
+        We want to add a searching bar in the Games page so that the user can type the name of the game they looking for.
+    </li>
+    <li>
+        We want to sort the games in categories so the the user can search for the type of games which suit them.
+    </li>
+</ul>
+<br>
 
-## Gitpod Reminders
+## Testing
+<hr>
+<ul>
+    <li>
+        I tested that the all the pages work in different browsers: Chrome, Firefox, Microsoft Edge, Brave.
+    </li>
+    <li>
+        I confirm that the project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
+    </li>
+    <li>
+        I confirm that the navigation bar, the home section, footer, games page and sign up page are easy to understand and readable.
+    </li>
+    <li>
+        I confirm that the sign-up form requires entries in every field, will only accept an email in the email field and one of the two radio inputs must be chosen, and you can only choose one of them. Also the submit button works properly.
+    </li>
+</ul>
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Validator Testing
+<ul>
+    <li>
+        HTML
+        <ul>
+            <li>
+                No errors were found when passing through the official
+                <a href="https://validator.w3.org" target="_blank" rel="noopener" aria-label="Visit W3C validator (opens in a new tab)">W3C validator</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        CSS
+        <ul>
+            <li>
+                No errors were returned when passing through the official
+                <a href="https://jigsaw.w3.org/css-validator" target="_blank" rel="noopener" aria-label="Visit Jigsaw validator (opens in a new tab)">(Jigsaw) validator</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        Accessibility
+        <ul>
+            <li>
+                I confirmed that the colors and fonts chosen are accessible and easy to read by running it through lighthouse in devtools.
+            </li>
+        </ul>
+        <br>
+        <img src="assets/images/Home-gaming-club-lighthouse.png" alt="">
+        <br>
+        <br>
+        <br>
+        <img src="assets/images/Games-gaming-club-lighthouse.png" alt="">
+        <br>
+        <br>
+        <br>
+        <img src="assets/images/Sign-up-gaming-club-lighthouse.png" alt="">
+        <br>
+        <br>
+    </li>
+</ul>
 
-`python3 -m http.server`
+### Unfixed Bugs
+No unfixed bugs.
+<br>
+<br>
 
-A blue button should appear to click: _Make Public_,
+## Deployment
+<hr>
+<ul>
+    <li>
+        The site was deployed to GitHub pages. The steps to deploy are as follows:
+        <ul>
+            <li>
+                In the GitHub repository, navigate to the Settings tab
+            </li>
+            <li>
+                From the Code and automation section, click on Pages
+            </li>
+            <li>
+                From the Pages section drop-down menu, select the "main" option inside the Branch section
+            </li>
+            <li>
+                Afterwards the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+            </li>
+        </ul>
+    </li>
+</ul>
+The live link can be found here - <a href="https://georgehazaka.github.io/Gaming-Club/" target="_blank" rel="noopener" aria-label="Visit gaming club (opens in a new tab)">Gaming Club</a>
+<br>
+<br>
 
-Another blue button should appear to click: _Open Browser_.
+## Credits
+<hr>
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### content
+<ul>
+    <li>
+        The navigation bar style was taken from the <a href="" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
+    </li>
+    <li>
+        The code of the social media links was taken from <a href="" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
+    </li>
+    <li>
+        The icons in the footer were taken from <a href="https://fontawesome.com/" target="_blank" rel="noopener" aria-label="Visit font awesome (opens in a new tab)">Font Awesome</a>
+    </li>
+    <li>
+        The icon in the signup page was taken from <a href="https://fontawesome.com/" target="_blank" rel="noopener" aria-label="Visit font awesome (opens in a new tab)">Font Awesome</a>
+    </li>
+</ul>
 
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+### Media
+<ul>
+    <li>All images were taken from open source site</li>
+</ul>
