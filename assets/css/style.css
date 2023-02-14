@@ -666,6 +666,10 @@ footer {
         justify-content: center;
     }
 
+    #first-hr, #second-hr {
+        display: none;
+    }
+
     footer #social-networks i {
         margin-right: 15px;
         margin-left: 15px;
