@@ -550,6 +550,7 @@ footer {
     #games-heading {
         font-size: 180%;
         letter-spacing: 4px;
+        margin-bottom: 40px;
     }
 
     #photos {
@@ -559,6 +560,7 @@ footer {
     #photos img {
         height: 450px;
         border: 2px solid rgb(76, 85, 80);
+        margin-bottom: 10px;
     }
 
     /* Sign-Up */
@@ -601,8 +603,9 @@ footer {
     }
 
     #signup-right-div img {
-        height: 365px;
-        margin-right: 4%;
+        width: 45%;
+        height: 300px;
+        margin-right: 5%;
     }
 }
 
@@ -677,7 +680,14 @@ footer {
 
     /* Games */
 
+    #menu {
+        margin-bottom: 0;
+    }
+
     #games-heading {
+        position: relative;
+        bottom: 50px;
+        margin-bottom: 0;
         font-size: 110%;
         letter-spacing: 2px;
     }
@@ -690,6 +700,8 @@ footer {
 
     #signup-left-div form {
         width: 80%;
+        margin-left: 10%;
+        margin-top: -80px;
     }
 
     #signup-left-div h2 {
