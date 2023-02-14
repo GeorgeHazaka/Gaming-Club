@@ -468,13 +468,13 @@ footer {
 
     #feel-free-left-div {
         width: 90%;
-        margin-bottom: 30px;
+        height: 200px;
         margin-left: 5%;
     }
 
     #save-money-right-div {
         width: 90%;
-        margin-bottom: 30px;
+        height: 200px;
         margin-right: 5%;
     }
 
@@ -514,7 +514,7 @@ footer {
     #play-directly-right-div img {
         width: 60%;
         margin-right: 20%;
-        margin-top: 350px;
+        margin-top: 270px;
         border-radius: 210px 210px 0 0;
         border: 2px solid rgb(76, 85, 80);
     }
@@ -522,6 +522,7 @@ footer {
     #play-directly-center-div {
         position: absolute;
         width: 90%;
+        height: 200px;
         margin-top: 330px;
         margin-left: 5%
     }
@@ -535,11 +536,7 @@ footer {
         line-height: 30px;
     }
 
-    #first-hr {
-        height: 150px;
-    }
-
-    #second-hr {
+    #first-hr, #second-hr {
         height: 120px;
     }
 
@@ -609,9 +606,9 @@ footer {
     }
 }
 
-/* For small screens size from 480px wide and down */
+/* For small screens size from 496px wide and down */
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 496px) {
 
     /* Home */
 
@@ -627,6 +624,16 @@ footer {
     #feel-free-container-div {
         position: relative;
         bottom: 70px;
+    }
+
+    #feel-free-left-div {
+        max-height: 150px;
+        margin-bottom: 30px;
+    }
+
+    #save-money-right-div  {
+        max-height: 150px;
+        margin-bottom: 60px;
     }
 
     #feel-free-left-div h2, #save-money-right-div h2, #play-directly-center-div h2 {
@@ -650,7 +657,7 @@ footer {
     }
 
     #play-directly-right-div img {
-        margin-top: 350px;
+        margin-top: 270px;
     }
 
     #play-directly-center-div {
