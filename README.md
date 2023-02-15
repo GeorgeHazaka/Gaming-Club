@@ -5,7 +5,7 @@ This application is designed to facilitate the process of playing without losing
 Users of this website wil be able to find all the information they need to know about Gaming Club: About the club, the games we have, sign up form and contact information. This site is targeted towards gamers who are willing to play many games but can't afford it, as this application can provide you several well-known games by only paying the monthly subscription.
 <br>
 <br>
-<img src="assets/images/Responsive-gaming-club.png" alt="" >
+<img src="assets/images/Responsive-gaming-club.png" alt="Several screen sizes devices showing how the website looks in each of them" >
 <br>
 <br>
 
@@ -26,7 +26,7 @@ Users of this website wil be able to find all the information they need to know 
             </li>
         </ul>
         <br>
-        <img src="assets/images/Navigation-gaming-club.png" alt="" >
+        <img src="assets/images/Navigation-gaming-club.png" alt="Navigation bar with the Gaming Club logo on the left and the links to the right" >
         <br>
         <br>
     </li>
@@ -36,7 +36,7 @@ Users of this website wil be able to find all the information they need to know 
                 Feel Free part makes the user feel free to play whatever game they want alone or with freinds and family.
                 <br>
                 <br>
-                <img src="assets/images/Feel-free-gaming-club.png" alt="" >
+                <img src="assets/images/Feel-free-gaming-club.png" alt="Feel-free part of the Home page of Gaming Club" >
                 <br>
                 <br>
             </li>
@@ -44,7 +44,7 @@ Users of this website wil be able to find all the information they need to know 
                 Save Money part is to encourage the user to join the Gaming club instead of paying lots of money for a single game.
                 <br>
                 <br>
-                <img src="assets/images/Save-money-gaming-club.png" alt="" >
+                <img src="assets/images/Save-money-gaming-club.png" alt="Save-money part of the Home page of Gaming Club" >
                 <br>
                 <br>
             </li>
@@ -52,7 +52,7 @@ Users of this website wil be able to find all the information they need to know 
                 Play Directly part is about the Cloud feature, which allows the user to play directly so they don't have to wait until the game is fully downloaded. Also it shows that this feature doesn't take any space in memory.
                 <br>
                 <br>
-                <img src="assets/images/Play-directly-gaming-club.png" alt="" >
+                <img src="assets/images/Play-directly-gaming-club.png" alt="Play-directly part of the Home page of Gaming Club" >
                 <br>
                 <br>
             </li>
@@ -68,7 +68,7 @@ Users of this website wil be able to find all the information they need to know 
             </li>
         </ul>
         <br>
-        <img src="assets/images/Footer-gaming-club.png" alt="" >
+        <img src="assets/images/Footer-gaming-club.png" alt="Footer of Gaming Club which includes Facebook, Twitter, Youtube and Instagram" >
         <br>
         <br>
     </li>
@@ -82,7 +82,7 @@ Users of this website wil be able to find all the information they need to know 
             </li>
         </ul>
         <br>
-        <img src="assets/images/Games-gaming-club.png" alt="" >
+        <img src="assets/images/Games-gaming-club.png" alt="The games in the games page of Gaming Club" >
         <br>
         <br>
     </li>
@@ -99,7 +99,7 @@ Users of this website wil be able to find all the information they need to know 
             </li>
         </ul>
         <br>
-        <img src="assets/images/Sign-up-gaming-club.png" alt="" >
+        <img src="assets/images/Sign-up-gaming-club.png" alt="The Sign-up form in the signup page of Gaming Club" >
         <br>
         <br>
     </li>
@@ -160,15 +160,15 @@ Users of this website wil be able to find all the information they need to know 
             </li>
         </ul>
         <br>
-        <img src="assets/images/Home-gaming-club-lighthouse.png" alt="">
+        <img src="assets/images/Home-gaming-club-lighthouse.png" alt="Rating the performance, accessibility, best practices and SEO of the home page of Gaming Club">
         <br>
         <br>
         <br>
-        <img src="assets/images/Games-gaming-club-lighthouse.png" alt="">
+        <img src="assets/images/Games-gaming-club-lighthouse.png" alt="Rating the performance, accessibility, best practices and SEO of the games page of Gaming Club">
         <br>
         <br>
         <br>
-        <img src="assets/images/Sign-up-gaming-club-lighthouse.png" alt="">
+        <img src="assets/images/Sign-up-gaming-club-lighthouse.png" alt="Rating the performance, accessibility, best practices and SEO of the signup page of Gaming Club">
         <br>
         <br>
     </li>
@@ -210,10 +210,13 @@ The live link can be found here - <a href="https://georgehazaka.github.io/Gaming
 ### content
 <ul>
     <li>
-        The navigation bar style was taken from the <a href="" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
+        The navigation bar style was taken from the <a href="#" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
     </li>
     <li>
-        The code of the social media links was taken from <a href="" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
+        The code of the social media links was taken from <a href="#" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
+    </li>
+    <li>
+        The idea of the games page was taken from the gallery page of <a href="#" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
     </li>
     <li>
         The icons in the footer were taken from <a href="https://fontawesome.com/" target="_blank" rel="noopener" aria-label="Visit font awesome (opens in a new tab)">Font Awesome</a>
