@@ -210,13 +210,13 @@ The live link can be found here - <a href="https://georgehazaka.github.io/Gaming
 ### content
 <ul>
     <li>
-        The navigation bar style was taken from the <a href="#" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
+        The navigation bar style was taken from the <a href="https://code-institute-org.github.io/love-running-2.0/" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
     </li>
     <li>
-        The code of the social media links was taken from <a href="#" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
+        The code of the social media links was taken from <a href="https://code-institute-org.github.io/love-running-2.0/" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
     </li>
     <li>
-        The idea of the games page was taken from the gallery page of <a href="#" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
+        The idea of the games page was taken from the gallery page of <a href="https://code-institute-org.github.io/love-running-2.0/" target="_blank" rel="noopener" aria-label="Visit love running (opens in a new tab)">Love Running</a> project
     </li>
     <li>
         The icons in the footer were taken from <a href="https://fontawesome.com/" target="_blank" rel="noopener" aria-label="Visit font awesome (opens in a new tab)">Font Awesome</a>
