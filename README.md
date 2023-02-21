@@ -24,6 +24,7 @@ Users of this website wil be able to find all the information they need to know 
         + [The Sign Up Page](#the-sign-up-page "The Sign Up Page")
     + [Features Left to Implement](#features-left-to-implement "Features Left to Implement")
 + [Testing](#testing "Testing")
+    + [Manual Testing](#manual-testing "Manual Testing")
     + [Validator Testing](#validator-testing "Validator Testing")
     + [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
 + [Deployment](#deployment "Deployment")
@@ -125,6 +126,18 @@ Created a logo for the Gaming Club website, and the logo has the shape of letter
 + I confirm that the project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
 + I confirm that the navigation bar, the home section, footer, games page and sign up page are easy to understand and readable.
 + I confirm that the sign-up form requires entries in every field, will only accept an email in the email field and one of the two radio inputs must be chosen, and you can only choose one of them. Also the submit button works properly.
+
+### Manual Testing
+
+| Feature | Expect | Action | Result |
+| ------- | ------ | ------ | ------ |
+| **Home logo button** | When clicked the home page will open | Clicked the Logo | Home page opened when clicked |
+| **Home navbar button** | When clicked the home page will open | Clicked Home on the Nav bar | Home page opened when clicked |
+| **Games navbar button** | When clicked the games page will open | Clicked Games on the Nav bar | Games page opened when clicked |
+| **Sign Up navbar button** | When clicked the signup page will open | Clicked Sign Up on the Nav bar | Sign Up page opened when clicked |
+| **Form Submit button** | Form submits when submit button is clicked | Clicked the submit button on the form | The form successfully submitted on click |
+| **Social link icons** | Social link icons open relevant websites in a new tab when clicked | Clicked the social link icon | The link opened a new tab and to the correct site |
+| **Games page images** | Images will change shape and opacity | Refreshed the games page | The images perform changing-shape-and-opacity animation effect correctly |
 
 ### Validator Testing
 + HTML
