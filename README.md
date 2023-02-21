@@ -6,34 +6,59 @@ Users of this website wil be able to find all the information they need to know 
 
 ![Several screen sizes devices showing how the website looks in each of them](documentation/Responsive-gaming-club.png)
 
+## Table of Contents
+----
+
++ [Design](#design "Design")
+    + [Flow Diagram](#flow-diagram "Flow Diagram")
+    + [Wireframes](#wireframes "Wireframes")
+    + [Colour Scheme](#colour-scheme "Colour Scheme")
+    + [Typography](#typography "Typography")
+    + [Logo Design](#logo-design "Logo Design")
++ [Features](#features "Features")
+    + [Existing Features](#existing-features "Existing Features")
+        + [The Header](#the-header "The Header")
+        + [The Section](#the-section "The Section")
+        + [The Footer](#the-footer "The Footer")
+        + [The Games Page](#the-games-page "The Games Page")
+        + [The Sign Up Page](#the-sign-up-page "The Sign Up Page")
+    + [Features Left to Implement](#features-left-to-implement "Features Left to Implement")
++ [Testing](#testing "Testing")
+    + [Validator Testing](#validator-testing "Validator Testing")
+    + [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
++ [Deployment](#deployment "Deployment")
++ [Credits](#credits "Credits")
+    + [Content](#content "Content")
+    + [Media](#media "Media")
+
 ## Design
 ----
 
-### Flow Diagram:
+### Flow Diagram
 
 To structure and aid in creating the website, a basic flow diagram was created which is linked below.
 
 [Flow Diagram](documentation/Gaming-club-diagram-finished.pdf)
 
-### Wireframes:
+### Wireframes
 
 Please see below, a link to wireframes for the site layout.
 
 [Wireframes](documentation/Gaming-club-wireframes-finished.pdf)
 
-### Colour Scheme:
+### Colour Scheme
 
 Two main colours were used in this website which suit gaming websites. The colours are:
 
 ![#ff0099 dark blue color](documentation/Rose-ff0099.png) ![#0080ff dark rose color](documentation/Blue-0080ff.png)
 
-### Typography:
+### Typography
 
 To make the website seem like a gaming website, the following font was chosen:
 
 [Signika Negative](https://fonts.google.com/specimen/Signika+Negative?query=sign)
 
-### Logo Design:
+### Logo Design
 
 Created a logo for the Gaming Club website, and the logo has the shape of letter G. It was created in [Canva](https://www.canva.com)
 ![Gaming club logo](documentation/Logo.png)
@@ -91,8 +116,8 @@ Created a logo for the Gaming Club website, and the logo has the shape of letter
 ![The Sign-up form in the signup page of Gaming Club](documentation/Sign-up-gaming-club.png)
 
 ### Features Left to Implement
-+ We want to add a searching bar in the Games page so that the user can type the name of the game they looking for.
-+ We want to sort the games in categories so the the user can search for the type of games which suit them.
++ Add a searching bar in the Games page so that the user can type the name of the game they looking for.
++ Sort the games in categories so the the user can search for the type of games which suit them.
 
 ## Testing
 ----
