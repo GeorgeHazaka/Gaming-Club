@@ -9,11 +9,17 @@ Users of this website wil be able to find all the information they need to know 
 ## Design
 ----
 
-### Flow Diagram
+### Flow Diagram:
 
 To structure and aid in creating the website, a basic flow diagram was created which is linked below.
 
 [Flow Diagram](documentation/Gaming-club-diagram-finished.pdf)
+
+### Wireframes:
+
+Please see below, a link to wireframes for the site layout.
+
+[Wireframes](documentation/Gaming-club-wireframes-finished.pdf)
 
 ## Features
 ----
