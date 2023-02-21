@@ -4,7 +4,16 @@ This application is designed to facilitate the process of playing without losing
 
 Users of this website wil be able to find all the information they need to know about Gaming Club: About the club, the games we have, sign up form and contact information. This site is targeted towards gamers who are willing to play many games but can't afford it, as this application can provide you several well-known games by only paying the monthly subscription.
 
-![Several screen sizes devices showing how the website looks in each of them](assets/images/Responsive-gaming-club.png)
+![Several screen sizes devices showing how the website looks in each of them](documentation/Responsive-gaming-club.png)
+
+## Design
+----
+
+### Flow Diagram
+
+To structure and aid in creating the website, a basic flow diagram was created which is linked below.
+
+[Flow Diagram](documentation/Gaming-club-diagram-finished.pdf)
 
 ## Features
 ----
@@ -16,39 +25,39 @@ Users of this website wil be able to find all the information they need to know 
     + The navigation links are to the right: Home, Games and Sign Up which link to different pages of the website.
     + The header clearly tells the user the name of the club and website and the navigation links make the different pages of information easy to find.
 
-![Navigation bar with the Gaming Club logo on the left and the links to the right](assets/images/Navigation-gaming-club.png)
+![Navigation bar with the Gaming Club logo on the left and the links to the right](documentation/Navigation-gaming-club.png)
 
 + #### The Section
     + Feel Free part makes the user feel free to play whatever game they want alone or with freinds and family.
 
-    ![Feel-free part of the Home page of Gaming Club](assets/images/Feel-free-gaming-club.png)
+    ![Feel-free part of the Home page of Gaming Club](documentation/Feel-free-gaming-club.png)
 
     + Save Money part is to encourage the user to join the Gaming club instead of paying lots of money for a single game.
 
-    ![Save-money part of the Home page of Gaming Club](assets/images/Save-money-gaming-club.png)
+    ![Save-money part of the Home page of Gaming Club](documentation/Save-money-gaming-club.png)
 
     + Play Directly part is about the Cloud feature, which allows the user to play directly so they don't have to wait until the game is fully downloaded. Also it shows that this feature doesn't take any space in memory.
 
-    ![Play-directly part of the Home page of Gaming Club](assets/images/Play-directly-gaming-club.png)
+    ![Play-directly part of the Home page of Gaming Club](documentation/Play-directly-gaming-club.png)
 
 + #### The Footer
     + The Footer section includes links to various social networks for Gaming Club.
     + It makes the user keep connected with us through social media.
 
-![Footer of Gaming Club which includes Facebook, Twitter, Youtube and Instagram](assets/images/Footer-gaming-club.png)
+![Footer of Gaming Club which includes Facebook, Twitter, Youtube and Instagram](documentation/Footer-gaming-club.png)
 
 + #### The Games Page
     + The games page shows the user the games we have in Gaming Club.
     + his section provides the user to easily navigate through games.
 
-![The games in the games page of Gaming Club](assets/images/Games-gaming-club.png)
+![The games in the games page of Gaming Club](documentation/Games-gaming-club.png)
 
 + #### The Sign Up Page
     + This page allows the user to create an account and start gaming right after.
     + The user has to submit their first name, last name, email address, password and choose the subscription period.
     + The user has to specify wether they want to subscripe for a month (29$) or a year (269$). Choosing the year option saves them 79$.
 
-![The Sign-up form in the signup page of Gaming Club](assets/images/Sign-up-gaming-club.png)
+![The Sign-up form in the signup page of Gaming Club](documentation/Sign-up-gaming-club.png)
 
 ### Features Left to Implement
 + We want to add a searching bar in the Games page so that the user can type the name of the game they looking for.
@@ -69,9 +78,9 @@ Users of this website wil be able to find all the information they need to know 
 + Accessibility
     + I confirmed that the colors and fonts chosen are accessible and easy to read by running it through lighthouse in devtools.
 
-![Rating the performance, accessibility, best practices and SEO of the home page of Gaming Club](assets/images/Home-gaming-club-lighthouse.png)
-![Rating the performance, accessibility, best practices and SEO of the games page of Gaming Club](assets/images/Games-gaming-club-lighthouse.png)
-![Rating the performance, accessibility, best practices and SEO of the signup page of Gaming Club](assets/images/Sign-up-gaming-club-lighthouse.png)
+![Rating the performance, accessibility, best practices and SEO of the home page of Gaming Club](documentation/Home-gaming-club-lighthouse.png)
+![Rating the performance, accessibility, best practices and SEO of the games page of Gaming Club](documentation/Games-gaming-club-lighthouse.png)
+![Rating the performance, accessibility, best practices and SEO of the signup page of Gaming Club](documentation/Sign-up-gaming-club-lighthouse.png)
 
 ### Unfixed Bugs
 No unfixed bugs.
