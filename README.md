@@ -21,6 +21,23 @@ Please see below, a link to wireframes for the site layout.
 
 [Wireframes](documentation/Gaming-club-wireframes-finished.pdf)
 
+### Colour Scheme:
+
+Two main colours were used in this website which suit gaming websites. The colours are:
+
+![#ff0099 dark blue color](documentation/Rose-ff0099.png) ![#0080ff dark rose color](documentation/Blue-0080ff.png)
+
+### Typography:
+
+To make the website seem like a gaming website, the following font was chosen:
+
+[Signika Negative](https://fonts.google.com/specimen/Signika+Negative?query=sign)
+
+### Logo Design:
+
+Created a logo for the Gaming Club website, and the logo has the shape of letter G. It was created in [Canva](https://www.canva.com)
+![Gaming club logo](documentation/Logo.png)
+
 ## Features
 ----
 
@@ -34,15 +51,23 @@ Please see below, a link to wireframes for the site layout.
 ![Navigation bar with the Gaming Club logo on the left and the links to the right](documentation/Navigation-gaming-club.png)
 
 + #### The Section
-    + Feel Free part makes the user feel free to play whatever game they want alone or with freinds and family.
+    + Feel Free part makes the user feel free to play whatever game they want.
+    + Shows to the user that they can play alone or with freinds and family.
+
+    <br>
 
     ![Feel-free part of the Home page of Gaming Club](documentation/Feel-free-gaming-club.png)
 
     + Save Money part is to encourage the user to join the Gaming club instead of paying lots of money for a single game.
 
+    <br>
+
     ![Save-money part of the Home page of Gaming Club](documentation/Save-money-gaming-club.png)
 
-    + Play Directly part is about the Cloud feature, which allows the user to play directly so they don't have to wait until the game is fully downloaded. Also it shows that this feature doesn't take any space in memory.
+    + Play Directly part is about the Cloud feature, which allows the user to play directly. so they don't have to wait until the game is fully downloaded.
+    +  Also it shows that this feature doesn't take any space in memory.
+
+    <br>
 
     ![Play-directly part of the Home page of Gaming Club](documentation/Play-directly-gaming-club.png)
 
