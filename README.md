@@ -129,15 +129,15 @@ Created a logo for the Gaming Club website, and the logo has the shape of letter
 
 ### Manual Testing
 
-| Feature | Expect | Action | Result |
-| ------- | ------ | ------ | ------ |
-| **Home logo button** | When clicked the home page will open | Clicked the Logo | Home page opened when clicked |
-| **Home navbar button** | When clicked the home page will open | Clicked Home on the Nav bar | Home page opened when clicked |
-| **Games navbar button** | When clicked the games page will open | Clicked Games on the Nav bar | Games page opened when clicked |
+| Feature                   | Expect | Action | Result |
+| ------------------------- | ------ | ------ | ------ |
+| **Home logo button**      | When clicked the home page will open | Clicked the Logo | Home page opened when clicked |
+| **Home navbar button**    | When clicked the home page will open | Clicked Home on the Nav bar | Home page opened when clicked |
+| **Games navbar button**   | When clicked the games page will open | Clicked Games on the Nav bar | Games page opened when clicked |
 | **Sign Up navbar button** | When clicked the signup page will open | Clicked Sign Up on the Nav bar | Sign Up page opened when clicked |
-| **Form Submit button** | Form submits when submit button is clicked | Clicked the submit button on the form | The form successfully submitted on click |
-| **Social link icons** | Social link icons open relevant websites in a new tab when clicked | Clicked the social link icon | The link opened a new tab and to the correct site |
-| **Games page images** | Images will change shape and opacity | Refreshed the games page | The images perform changing-shape-and-opacity animation effect correctly |
+| **Form Submit button**    | Form submits when submit button is clicked | Clicked the submit button on the form | The form successfully submitted on click |
+| **Social link icons**     | Social link icons open relevant websites in a new tab when clicked | Clicked the social link icon | The link opened a new tab and to the correct site |
+| **Games page images**     | Images will change shape and opacity | Refreshed the games page | The images perform changing-shape-and-opacity animation effect correctly |
 
 ### Validator Testing
 + HTML
